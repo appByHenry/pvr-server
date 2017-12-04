@@ -50,7 +50,7 @@ var db;
 
 
 var localDBUrl = "mongodb://localhost:27017/pvrdatabase";
-//console.log("Mongodb URL :" + JSON.stringify(localDBUrl));
+
 // Initialize connection once
 MongoClient.connect(mongoUrl, function(err, database) {
     if (err) {
