@@ -1,0 +1,22 @@
+{
+  "name": "send-invite-app",
+  "version": "0.0.1",
+  "description": "Database for my wedding application",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "core-js": "^2.4.1",
+    "express": "^4.13.4",
+    "jquery": "^2.1.1",
+    "mongodb": "*",
+    "monk": "*",
+    "nodemailer-smtp-transport": "^2.7.4"
+  },
+  "devDependencies": {
+    "jquery": "~1.9.0",
+    "eslint-config-nodemailer": "^1.0.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "smtp-server": "^3.0.1",
+    "nodemailer": "^4.0.0"
+  }
+}
