@@ -9,6 +9,7 @@
     "jquery": "^2.1.1",
     "mongodb": "*",
     "monk": "*",
+    "nodemailer": "^4.0.1",
     "nodemailer-smtp-transport": "^2.7.4"
   },
   "devDependencies": {
